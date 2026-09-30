@@ -1,0 +1,27 @@
+
+    <div style="background-color: #f8f9fa; border-left: 4px solid #eab308; padding: 10px; margin-bottom: 12px; border-radius: 4px;">
+        <p style="margin: 0; font-weight: bold; color: #333;">Johana Diaz <span style="font-weight: normal; font-size: 0.85em; color: #666;">(johanaantoneladiaz@gmail.com)</span></p>
+        <p style="margin: 5px 0; color: #444;">Geniall</p>
+        <small style="color: #888;">Enviado el: 25/08/2026 20:45:43</small>
+    </div>
+    
+    <div style="background-color: #f8f9fa; border-left: 4px solid #eab308; padding: 10px; margin-bottom: 12px; border-radius: 4px;">
+        <p style="margin: 0; font-weight: bold; color: #333;">Angela  Lop <span style="font-weight: normal; font-size: 0.85em; color: #666;">(angelamilagroslopez@gmail.com)</span></p>
+        <p style="margin: 5px 0; color: #444;">Excelentee
+
+</p>
+        <small style="color: #888;">Enviado el: 25/08/2026 20:46:37</small>
+    </div>
+    
+    <div style="background-color: #f8f9fa; border-left: 4px solid #eab308; padding: 10px; margin-bottom: 12px; border-radius: 4px;">
+        <p style="margin: 0; font-weight: bold; color: #333;">Johana Diaz <span style="font-weight: normal; font-size: 0.85em; color: #666;">(johanaantoneladiaz@gmail.com)</span></p>
+        <p style="margin: 5px 0; color: #444;">buenoo</p>
+        <small style="color: #888;">Enviado el: 26/08/2026 19:51:28</small>
+    </div>
+    
+    <div style="background-color: #f8f9fa; border-left: 4px solid #eab308; padding: 10px; margin-bottom: 12px; border-radius: 4px;">
+        <p style="margin: 0; font-weight: bold; color: #333;">Juan Alvez  <span style="font-weight: normal; font-size: 0.85em; color: #666;">(juanal@gmail.com)</span></p>
+        <p style="margin: 5px 0; color: #444;">Buenoo </p>
+        <small style="color: #888;">Enviado el: 29/09/2026 23:56:36</small>
+    </div>
+    
